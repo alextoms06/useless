@@ -1,20 +1,16 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-
-Sure! Here’s a fast filled-in template you can customize later:
-
 ---
 
 # Argument AI Partner 🎯
 
 ## Basic Details
 
-*Team Name:* CodeMasters
+*Team Name:* Zarionic
 *Team Members:*
 
-* Team Lead: A T - SomeTech University
-* Member 2: Riya Sharma - Tech Institute
-* Member 3: Vivek Kumar - Innovation College
+* Team Lead: Alex Thomas -MACE
+* Member 2: Nevin K Raju - MACE
 
 ---
 
@@ -73,41 +69,24 @@ python argue_ai_partner.py
 
 ### Screenshots
 
-![Screenshot1](screenshots/chat_ui_1.png)
-Main chatbot window showing user and AI arguments.
-
-![Screenshot2](screenshots/chat_ui_2.png)
-Temperature slider to control AI response style.
-
-![Screenshot3](screenshots/chat_ui_3.png)
-Reset and Save chat buttons in action.
+in the main directory
 
 ### Diagrams
-
-![Workflow](diagrams/workflow.png)
-Architecture showing user input → AI model inference → UI output cycle.
-
 ---
 
 ## Project Demo
 
 ### Video
 
-[https://youtu.be/demo\_link](https://youtu.be/demo_link)
-Demonstrates interactive argument sessions with the AI.
-
 ---
 
 ## Team Contributions
 
-* *A T:* Developed core chatbot logic and AI integration.
-* *Riya Sharma:* Designed UI and added usability features.
-* *Vivek Kumar:* Managed project documentation and testing.
+* *Alex:* Developed core chatbot logic and AI integration.
+* *Nevin:* Managed project documentation and testing.
 
 ---
 
-Feel free to tell me if you want it in markdown file or other format!
----
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
